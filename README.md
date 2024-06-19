@@ -1,2 +1,0 @@
-# ionic-app
-ionic app
